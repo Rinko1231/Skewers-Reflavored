@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c",
+    "p",
+    "s"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:carrot"
+    },
+    "p": {
+      "item": "minecraft:baked_potato"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "skewers:skewer_veggie_cooked",
+    "count": 1
+  }
+}

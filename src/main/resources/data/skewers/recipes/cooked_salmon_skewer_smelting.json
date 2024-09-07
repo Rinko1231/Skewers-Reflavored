@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "skewers:skewer_salmon_raw"
+  },
+  "result": "skewers:skewer_salmon_cooked",
+  "experience": 0.5,
+  "cookingtime": 200
+}

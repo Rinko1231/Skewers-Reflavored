@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c",
+    "a",
+    "s"
+  ],
+  "key": {
+    "c": {
+      "item": "skewers:caramel"
+    },
+    "a": {
+      "item": "minecraft:apple"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "skewers:skewer_caramel_apple",
+    "count": 1
+  }
+}

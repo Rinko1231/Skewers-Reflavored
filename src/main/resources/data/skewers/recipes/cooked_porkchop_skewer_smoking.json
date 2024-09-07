@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "skewers:skewer_porkchop_raw"
+  },
+  "result": "skewers:skewer_porkchop_cooked",
+  "experience": 0.5,
+  "cookingtime": 100
+}

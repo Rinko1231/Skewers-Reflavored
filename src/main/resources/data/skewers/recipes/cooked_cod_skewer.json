@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x",
+    "x",
+    "s"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:cooked_cod"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "skewers:skewer_cod_cooked",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:sugar"
+  },
+  "result": "skewers:caramel",
+  "experience": 0.4,
+  "cookingtime": 100
+}

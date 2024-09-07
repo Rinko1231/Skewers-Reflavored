@@ -1,0 +1,33 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license = "MIT"
+issueTrackerURL = ""
+[[mods]]
+modId = "skewers"
+version = "1.0.0"
+displayName = "Skewers Reflavored"
+displayURL = ""
+logoFile = "skewers.png"
+credits = "Originally made by Casadis, Ported to 1.18-1.19 by ACGaming, Ported to 1.20.1 by Rinko1231"
+authors = "Rinko1231, ACGaming, Casadis"
+description = '''
+Adds vanilla-friendly skewers you can craft and eat - updated! updated again!
+'''
+[[dependencies.skewers]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.skewers]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.skewers]]
+modId = "aquaculture"
+mandatory = false
+versionRange = "[2.5.0,)"
+ordering = "AFTER"
+side = "BOTH"
