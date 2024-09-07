@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer1": "skewers:item/skewer_mutton_cooked",
+    "layer0": "skewers:item/skewer_none"
+  }
+}
