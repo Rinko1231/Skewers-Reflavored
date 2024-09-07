@@ -18,6 +18,9 @@ public class TabInit {
             // Add default items to tab
             .displayItems((params, output) -> {
                 SkewersRegistry.ITEMS_VANILLA.getEntries().forEach(it -> output.accept(it.get()));
+                if (ModList.get().isLoaded("aquaculture"))
+                {
+                SkewersRegistry.ITEMS_AQUACULTURE.getEntries().forEach(it -> output.accept(it.get()));}
             })
             .build()
     );
